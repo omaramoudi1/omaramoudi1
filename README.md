@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as an AI intern with XpertBot
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on your projects
-- 🤔 I’m looking for help with finding an internship (even if it is unpaid)
+- 🤔 I’m looking for help with finding a summer internship (even if it is unpaid)
 - 📫 How to reach me: omaramoudi683@gmail.com
 
